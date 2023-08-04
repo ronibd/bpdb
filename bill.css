@@ -1,0 +1,49 @@
+body{
+    margin: 8px;
+    width: 350px;
+    height: 624px;
+}
+.header{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.first{
+    margin-bottom: 5px;
+}
+.first{
+    padding-top: 10px;
+}
+.second{
+    margin-top: 5px;
+}
+.third{
+    margin-top: 5px;
+}
+.date{
+    text-align: center;
+}
+.meter{
+    font-weight: bolder;
+    margin-left: 40px;
+}
+.meter1{
+    font-weight: bolder;
+    margin-left: 40px;
+}
+.meterdef{
+    font-size: 16px;
+    text-align: center;
+
+}
+.meter2{
+    margin-left: 40px;
+}
+.common{
+    text-align: center;
+    margin-left: 40px;
+}
+.tarif{
+    text-align: center;
+    margin-left: 100px;
+}
