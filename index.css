@@ -48,5 +48,7 @@ body{
     margin-left: 100px;
 }
 input{
-    box-shadow: white;
+    border: whitesmoke;
+    border-color: whitesmoke;
+    box-shadow: whitesmoke;
 }
