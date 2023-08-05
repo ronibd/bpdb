@@ -57,6 +57,7 @@ body{
     width: 510px;
     height: 40px;
     resize: none;
+    margin-right: 30px;
 }
 .leftside{
     width: 300px;
