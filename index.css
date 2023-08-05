@@ -1,5 +1,5 @@
 body{
-    height: 700px;
+    height: 720px;
     width: 288px;
     margin-left: 20px;
     margin-top: 10px;
@@ -55,6 +55,11 @@ body{
 }
 .tokennum{
     width: 510px;
-    height: 30px;
+    height: 40px;
     resize: none;
+}
+.leftside{
+    width: 300px;
+    padding-left: 70px;
+ 
 }
