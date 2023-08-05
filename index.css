@@ -36,6 +36,10 @@ body{
 }
 
 
+.display{
+    display: flex;
+}
+
 .undert{
     text-align: center;
 }
