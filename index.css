@@ -1,6 +1,6 @@
 body{
     height: 670px;
-    width: 288px;
+    width: 295px;
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -13,6 +13,7 @@ body{
 
 .maincenter{
     text-align: center;
+    font-size: 17px;
 }
 
 .fontsize{
@@ -22,7 +23,7 @@ body{
 .inputgap{
     box-shadow: white;
     border: 0;
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .mainfocus{
@@ -49,12 +50,13 @@ body{
   border: 0ch;
   
     box-shadow: white;
-    font-size: 27px;
+   
     font-weight: bolder;
     text-align: center;
 }
 .tokennum{
-    width: 400px;
+    width: 350px;
     height: 33px;
     resize: none;
+    font-size: 24px;
 }
