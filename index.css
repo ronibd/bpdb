@@ -1,54 +1,51 @@
-body{
-    margin: 8px;
-    width: 350px;
-    height: 624px;
-}
-.header{
-    text-align: center;
-    font-weight: bolder;
-    font-size: 20px;
-}
-.first{
-    margin-bottom: 5px;
-}
-.first{
-    padding-top: 10px;
-}
-.second{
-    margin-top: 5px;
-}
-.third{
-    margin-top: 5px;
-}
-.date{
-    text-align: center;
-}
-.meter{
-    font-weight: bolder;
-    margin-left: 40px;
-}
-.meter1{
-    font-weight: bolder;
-    margin-left: 40px;
-}
-.meterdef{
-    font-size: 16px;
-    text-align: center;
 
-}
-.meter2{
-    margin-left: 40px;
-}
-.common{
+
+
+
+
+
+
+
+
+.maincenter{
     text-align: center;
-    margin-left: 40px;
 }
-.tarif{
+
+.fontsize{
+    font-size: 18px;
+}
+
+.inputgap{
+    box-shadow: white;
+    border: 0;
+    font-size: 16px;
+}
+
+.mainfocus{
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+
+
+
+.dotgap{
     text-align: center;
-    margin-left: 100px;
 }
-input{
-    border: whitesmoke;
-    border-color: whitesmoke;
-    box-shadow: whitesmoke;
+
+
+.undert{
+    text-align: center;
+}
+.tokennum{
+  border: 0ch;
+  
+    box-shadow: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+.tokennum{
+    width: 295px;
+    height: 20px;
+    resize: none;
 }
