@@ -43,11 +43,10 @@
     box-shadow: white;
     font-size: 25px;
     font-weight: bolder;
+    text-align: center;
 }
 .tokennum{
     width: 370px;
     height: 20px;
-    font-size: 25px;
     resize: none;
-    text-align: center;
 }
