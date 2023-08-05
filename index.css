@@ -41,11 +41,12 @@
   border: 0ch;
   
     box-shadow: white;
-    font-size: 22px;
+    font-size: 25px;
     font-weight: bolder;
 }
 .tokennum{
-    width: 295px;
+    width: 370px;
     height: 20px;
     resize: none;
+    text-align: center;
 }
