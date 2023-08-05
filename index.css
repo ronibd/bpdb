@@ -1,33 +1,33 @@
 body{
-    height: 670px;
-    margin-left: 10px;
+    height: 700px;
+    width: 288px;
+    margin-left: 20px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 
 .boxline{
-    width: 100px;
+    width: 80px;
 }
 
 .maincenter{
     text-align: center;
-    font-size: 22px;
 }
 
 .fontsize{
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .inputgap{
     box-shadow: white;
     border: 0;
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .mainfocus{
     font-weight: bolder;
-    font-size: 22px;
+    font-size: 16px;
 }
 
 
@@ -49,17 +49,12 @@ body{
   border: 0ch;
   
     box-shadow: white;
-   
+    font-size: 25px;
     font-weight: bolder;
     text-align: center;
 }
 .tokennum{
-    width: 580px;
-    height: 38px;
+    width: 370px;
+    height: 20px;
     resize: none;
-    font-size: 40px;
-}
-.leftside{
-    margin-left: 50px;
-    font-size: 20px;
 }
