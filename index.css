@@ -54,11 +54,12 @@ body{
     text-align: center;
 }
 .tokennum{
-    width: 500px;
+    width: 580px;
     height: 38px;
     resize: none;
     font-size: 40px;
 }
 .leftside{
     margin-left: 30px;
+    font-size: 22px;
 }
