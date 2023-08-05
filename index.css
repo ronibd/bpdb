@@ -4,9 +4,9 @@ body{
 }
 
 
-
-
-
+.boxline{
+    width: 80px;
+}
 
 .maincenter{
     text-align: center;
