@@ -13,6 +13,7 @@ body{
 .maincenter{
     text-align: center;
     font-size: 28px;
+    
 }
 
 .fontsize{
@@ -33,7 +34,11 @@ body{
 .menu{
     font-size: 28px;
 }
-
+.mainheader{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+}
 
 .dotgap{
     text-align: center;
