@@ -12,26 +12,26 @@ body{
 
 .maincenter{
     text-align: center;
-    font-size: 23px;
+    font-size: 26px;
 }
 
 .fontsize{
-    font-size: 23px;
+    font-size: 26px;
 }
 
 .inputgap{
     box-shadow: white;
     border: 0;
-    font-size: 23px;
+    font-size: 26px;
 }
 
 .mainfocus{
     font-weight: bolder;
-    font-size: 23px;
+    font-size: 26px;
 }
 
 .menu{
-    font-size: 23px;
+    font-size: 26px;
 }
 
 
