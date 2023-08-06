@@ -3,35 +3,35 @@ body{
 }
 
 .boxline{
-    width: 120px;
+    width: 140px;
 }
 
 .dnboxline{
-    width: 180px;
+    width: 200px;
 }
 
 .maincenter{
     text-align: center;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 .fontsize{
-    font-size: 26px;
+    font-size: 28px;
 }
 
 .inputgap{
     box-shadow: white;
     border: 0;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 .mainfocus{
     font-weight: bolder;
-    font-size: 26px;
+    font-size: 28px;
 }
 
 .menu{
-    font-size: 26px;
+    font-size: 28px;
 }
 
 
