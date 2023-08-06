@@ -1,44 +1,36 @@
-body{
-    margin: 20px;
-}
 
 .boxline{
-    width: 140px;
-}
-
-.dnboxline{
-    width: 200px;
+    width: 80px;
 }
 
 .maincenter{
     text-align: center;
-    font-size: 28px;
-    
+}
+.dncenter{
+    text-align: center;
+    font-size: 26px;
+}
+.dngap{
+    width: 180px;
 }
 
 .fontsize{
-    font-size: 28px;
+    font-size: 26px;
 }
 
 .inputgap{
     box-shadow: white;
     border: 0;
-    font-size: 28px;
+    font-size: 26px;
 }
 
 .mainfocus{
     font-weight: bolder;
-    font-size: 28px;
+    font-size: 26px;
 }
 
-.menu{
-    font-size: 28px;
-}
-.mainheader{
-    text-align: center;
-    font-weight: bolder;
-    font-size: 30px;
-}
+
+
 
 .dotgap{
     text-align: center;
@@ -61,13 +53,10 @@ body{
     text-align: center;
 }
 .tokennum{
-    width: 540px;
-    height: 60px;
+    width: 370px;
+    height: 20px;
     resize: none;
-    margin-right: 30px;
 }
-.leftside{
-    width: 300px;
-    padding-left: 110px;
- 
+..fontsize{
+    font-size: 26px;
 }
